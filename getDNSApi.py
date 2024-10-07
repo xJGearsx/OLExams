@@ -1,6 +1,5 @@
 import requests
 import json
-
 # API Key and URL
 API_KEY = 'h523hDtETbkJ3nSJL323hjYLXbCyDaRZ'
 BASE_URL = 'https://api.recruitment.shq.nz'
